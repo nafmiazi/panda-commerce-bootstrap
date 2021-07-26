@@ -1,0 +1,13 @@
+.category, .shoe{
+    border-radius: 10px;
+}
+.card-footer:last-child{
+    border-radius: 10px;
+}
+.slider{
+    margin-top: 70px;
+}
+
+.slider-inner{
+    border-radius: 10px;
+}
